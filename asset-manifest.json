@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/infinite-minesweeper-multiplayer/static/css/main.4a2e6021.css",
-    "main.js": "/infinite-minesweeper-multiplayer/static/js/main.81e1ba41.js",
+    "main.js": "/infinite-minesweeper-multiplayer/static/js/main.a62958e9.js",
     "index.html": "/infinite-minesweeper-multiplayer/index.html",
     "main.4a2e6021.css.map": "/infinite-minesweeper-multiplayer/static/css/main.4a2e6021.css.map",
-    "main.81e1ba41.js.map": "/infinite-minesweeper-multiplayer/static/js/main.81e1ba41.js.map"
+    "main.a62958e9.js.map": "/infinite-minesweeper-multiplayer/static/js/main.a62958e9.js.map"
   },
   "entrypoints": [
     "static/css/main.4a2e6021.css",
-    "static/js/main.81e1ba41.js"
+    "static/js/main.a62958e9.js"
   ]
 }
