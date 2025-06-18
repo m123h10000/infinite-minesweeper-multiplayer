@@ -1,0 +1,2 @@
+body{background:#f5f5f5;display:flex;font-family:sans-serif;justify-content:center;margin-top:2rem}.board-container{display:flex;flex-wrap:wrap;gap:10px}.board{grid-gap:2px;display:grid;gap:2px;grid-template-columns:repeat(8,30px);margin:10px}.cell{align-items:center;background:#ccc;cursor:pointer;display:flex;font-weight:700;height:30px;justify-content:center;-webkit-user-select:none;user-select:none;width:30px}.cell.revealed{background:#eee}.cell.bomb{background:red;color:#fff}
+/*# sourceMappingURL=main.4a2e6021.css.map*/
