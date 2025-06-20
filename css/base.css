@@ -1,0 +1,149 @@
+/* ⚐ ⚑ 🏲 🏳️‍🌈 🏴‍☠️ */
+.f > span:after {
+  font-size: 80%;
+  /*font-family: "Mine";*/
+  content: "🚩";
+  /*text-shadow: 2px 2px rgba(0, 0, 0, .4);*/
+}
+.c {
+  background: #d6d6d6;
+  border: 2px solid #000;
+  border-color: #ffffff #777777 #777777 #ffffff;
+}
+.l {
+  background: #777777;
+  border: 2px solid #000;
+  border-color: #ccc #777777 #777777 #ccc;
+}
+.d {
+  background: #aaaaaa;
+  border-color: #777777 #ffffff #ffffff #777777;
+}
+.m,
+.f,
+.c0,
+.c1,
+.c2,
+.c3,
+.c4,
+.c5,
+.c6,
+.c7,
+.c8,
+.u {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  position: relative;
+}
+.m > span,
+.f > span,
+.c0 > span,
+.c1 > span,
+.c2 > span,
+.c3 > span,
+.c4 > span,
+.c5 > span,
+.c6 > span,
+.c7 > span,
+.c8 > span,
+.u > span {
+  position: absolute;
+  top: -1px;
+  bottom: -1px;
+  left: -1px;
+  right: -1px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.m,
+.c0,
+.c1,
+.c2,
+.c3,
+.c4,
+.c5,
+.c6,
+.c7,
+.c8,
+.u {
+  background: #ccc;
+  border: 2px solid #777777;
+}
+.m > span,
+.c0 > span,
+.c1 > span,
+.c2 > span,
+.c3 > span,
+.c4 > span,
+.c5 > span,
+.c6 > span,
+.c7 > span,
+.c8 > span,
+.u > span {
+  background: #ccc;
+}
+.m > span:after {
+  /*font-family: "Mine";*/
+  font-size: 90%;
+  content: "💣";
+}
+.e > span {
+  background: #f00;
+}
+.c1 {
+  color: #f00;
+}
+.c1 > span:after {
+  content: "1";
+}
+.c2 {
+  color: #070;
+}
+.c2 > span:after {
+  content: "2";
+}
+.c3 {
+  color: #00f;
+}
+.c3 > span:after {
+  content: "3";
+}
+.c4 {
+  color: #007;
+}
+.c4 > span:after {
+  content: "4";
+}
+.c5 {
+  color: #700;
+}
+.c5 > span:after {
+  content: "5";
+}
+.c6 {
+  color: #077;
+}
+.c6 > span:after {
+  content: "6";
+}
+.c7 {
+  color: #000;
+}
+.c7 > span:after {
+  content: "7";
+}
+.c8 {
+  color: #777;
+}
+.c8 > span:after {
+  content: "8";
+}
+.u {
+  background: #f0f;
+}
+.u > span:after {
+  content: "?";
+}
